@@ -1,0 +1,2 @@
+def omg():
+    return "omg"
